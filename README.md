@@ -1,5 +1,7 @@
 # Human-benchmark
-Scripts to complete the humanbenchmark test above human capabilities
+Scripts to complete the humanbenchmark test above human capabilities.  
+The goal is to achieve as high of a score as possible, there is a limtation:
+* No web scraping
 
 ## Reaction time
 Click the screen as fast as possible after it turns green
